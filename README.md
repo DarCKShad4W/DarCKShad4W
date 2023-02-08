@@ -5,10 +5,11 @@
 <p align="center"> 
 <a href="https://www.linkedin.com/in/rifdhy-rm-8767b9101" rel="nofollow"><img height="25" src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;"></a>&nbsp;&nbsp;
 
-v<!-- Socials -->
+<!-- Socials -->
 <p align="center">
    <kbd>
-  <a href="https://twitter.com/Lissy_Sykes" title="Twitter - @Lissy_Sykes"><img src="https://img.shields.io/badge/-@Lissy_Sykes-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
+  <a href="https://cdnlogo.com/logo/upwork_51371.html"><img src="https://cdn.cdnlogo.com/logos/u/87/upwork.svg"></a>
+ style=flat&logo=Twitter&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/979052/alicia" title="StackOverflow - Alicia Sykes"><img src="https://img.shields.io/badge/-Alicia-f48225?style=flat&logo=Stackoverflow&logoColor=white" /></a>
   <a href="https://keybase.io/aliciasykes" title="Keybase - Alicia Sykes"><img src="https://img.shields.io/badge/-aliciasykes-5e78ef?style=flat&logo=keybase&logoColor=white" /></a>
   <a href="https://www.reddit.com/user/lissy93" title="Reddit - u/lissy93"><img src="https://img.shields.io/badge/-Lissy93-ff4500?style=flat&logo=reddit&logoColor=white" /></a>
